@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3TreeViewCrash (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3TreeViewCrash (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
